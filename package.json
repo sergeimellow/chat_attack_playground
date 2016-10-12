@@ -1,0 +1,22 @@
+{
+  "name": "chat_attack",
+  "version": "1.0.0",
+  "description": "exploration",
+  "main": "chat_attack.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergeimellow/chat_attack_playground.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sergeimellow/chat_attack_playground/issues"
+  },
+  "homepage": "https://github.com/sergeimellow/chat_attack_playground#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
